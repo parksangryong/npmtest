@@ -1,6 +1,6 @@
 {
-  "name": "parksangryong",
-  "version": "1.0.14",
+  "name": "@parksangryong/design-system",
+  "version": "0.0.1",
   "description": "",
   "main": ".eslintrc.js",
   "scripts": {
@@ -25,5 +25,9 @@
     "@fortawesome/free-solid-svg-icons": "^6.5.1",
     "paper": "^0.12.17",
     "react-native-paper": "^5.11.6"
+  },
+  "repository": "https://github.com/parksangryong/npmtest",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
   }
 }
